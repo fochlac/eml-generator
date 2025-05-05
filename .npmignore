@@ -1,0 +1,14 @@
+.git/
+.github/
+docs/
+src/
+tests/
+*.test.ts
+*.test.js
+jest.config.*
+tsconfig.json
+rollup.config.mjs
+.gitignore
+.npmignore
+*.tgz
+coverage/
